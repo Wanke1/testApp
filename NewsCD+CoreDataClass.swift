@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import CoreData
+dsahjkfhhkjimport CoreData
 
 @objc(NewsCD)
 public class NewsCD: NSManagedObject {
